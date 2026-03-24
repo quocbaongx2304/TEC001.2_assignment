@@ -19,7 +19,11 @@ class Car:
 
 #Bài 1
 car = Car("ABC-123", 142)
-print(car.registration_number, car.max_speed, car.speed, car.distance)
+print("=== Bài 1: Car Information ===")
+print(f"Registration Number: {car.registration_number}")
+print(f"Maximum Speed: {car.max_speed} km/h")
+print(f"Current Speed: {car.current_speed} km/h")
+print(f"Travelled Distance: {car.travelled_distance} km")
 
 #Bài 2
 car.accelerate(30)
