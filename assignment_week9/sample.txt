@@ -1,0 +1,11 @@
+Memory is one of the most important parts of a computer system.
+It allows the computer to store data temporarily and permanently.
+There are several types of memory including RAM and ROM.
+
+RAM is volatile memory used while programs are running.
+ROM is non-volatile memory that stores startup instructions.
+Cache memory improves system performance.
+
+Python programming also relies on memory management.
+Efficient memory usage helps applications run faster.
+Understanding memory concepts is essential for computer science students.
